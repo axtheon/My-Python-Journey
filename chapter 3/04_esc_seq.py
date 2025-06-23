@@ -5,7 +5,7 @@ a = "Abdullah is a good boy\nbut not a bad boy!"
 print(a)
 # there are some more of these as following
 
-# 🔸 Common Escape Sequences in Python
+#  Common Escape Sequences in Python
 
 print("Hello\tWorld")       # \t → Tab (horizontal space)
 # Output: Hello    World
