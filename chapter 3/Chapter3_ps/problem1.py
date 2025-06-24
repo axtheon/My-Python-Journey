@@ -36,3 +36,5 @@ print("-".join(['1', '2', '3']))  # '1-2-3'
 print(len("hello"))        # 5
 print("42".zfill(5))       # '00042'
 print("hi".center(6))      # '  hi  '
+print("hello".swapcase())  # 'HELLO'
+print("hello".removeprefix("he"))  # 'llo'
