@@ -1,4 +1,4 @@
-# 🐍 MY_PYTHON_JOURNEY
+f# 🐍 MY_PYTHON_JOURNEY
 
 Welcome to my **Python learning journey**! 🚀  
 This repository contains all the code, exercises, and practice sets I'm working on as I explore Python programming in a structured, hands-on way.
