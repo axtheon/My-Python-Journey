@@ -1,4 +1,5 @@
 # Some of the methods for Dictionaries are following:
+a = {} # It is an empty Dictionary
 marks = {
     "Abdullah": 100,
     "Ali": 84,
