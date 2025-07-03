@@ -17,7 +17,7 @@ This repo is organized like a book 📖:
 
 ## 🛠️ Tools Used
 
-- 🖥️ **Visual Studio Code**
+- 🖥️ **PyCharm**
 - 🐍 **Python 3.12+**
 - 🔧 **Git** + 🌐 **GitHub**
 
