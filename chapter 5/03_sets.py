@@ -13,3 +13,9 @@ print(type(c))
 d = {1, 2, 93, 64, 55, 2, 2, 2, 1}
 print(d)
 # A set doesn't maintain the order, it output the values randomly.
+#--------------------------------------------------------
+# Properties of sets:
+# Sets are unordered.
+# Sets are unindexed.
+# There is no way to change a set.
+# Sets can contain duplicate values but it will print them only once.
