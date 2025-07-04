@@ -69,3 +69,5 @@ s = {1, 2}
 t = {3, 4}
 s.isdisjoint(t)  # True if no common elements
 print(s)
+
+# These are some of the most important methods in sets.
