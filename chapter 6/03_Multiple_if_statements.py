@@ -1,5 +1,5 @@
 # if statements can be used multiple times
-# but else and elif statements cannot be used multiple times.
+# but else statements cannot be used multiple times.
 
 age = int(input("Enter your age: "))
 
