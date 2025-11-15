@@ -1,6 +1,6 @@
 f# 🐍 MY_PYTHON_JOURNEY
 
-Welcome to my **Python learning journey**! 🚀  
+Welcome to my **Python learning journey**! 🚀
 This repository contains all the code, exercises, and practice sets I'm working on as I explore Python programming in a structured, hands-on way.
 
 ---
@@ -17,7 +17,7 @@ This repo is organized like a book 📖:
 
 ## 🛠️ Tools Used
 
-- 🖥️ **PyCharm**
+- 🖥️ **PyCharm/VScode**
 - 🐍 **Python 3.12+**
 - 🔧 **Git** + 🌐 **GitHub**
 
@@ -25,27 +25,27 @@ This repo is organized like a book 📖:
 
 ## 💡 Goals
 
-- Learn Python from basics to advanced with clarity 🧠  
-- Practice daily with real code examples 🔁  
-- Build a solid foundation for software engineering 🏗️  
+- Learn Python from basics to advanced with clarity 🧠
+- Practice daily with real code examples 🔁
+- Build a solid foundation for software engineering 🏗️
 - Share this journey openly on GitHub 🌍
 
 ---
 
 ## 🧪 How to Use This Repo
 
-I don’t know why you would even use this repo...  
+I don’t know why would you even use this repo...
 but if you *really* wanna try it, here’s how! 😆
 
-1. Clone the repo  
+1. Clone the repo
    ```bash
-   git clone https://github.com/axtheon/MY_PYTHON_JOURNEY.git
+   git clone https://github.com/axtheon/My-Python-Journey
 
 2. Open a chapter folder
-   cd "chapter 2"
+   i.e cd "chapter 2"
 
 3. Run the Python file
-   python "chapter 2/Chapter2_ps.py"
+   i.e python "chapter 2/Chapter2_ps.py"
    # Or any file inside the folder
 
 ---
